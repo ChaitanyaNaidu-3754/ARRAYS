@@ -7,7 +7,7 @@ public class arrays
         Scanner in = new Scanner (System.in);
 
 
-      /*   //One Dimensional Array
+     //One Dimensional Array
         int [] a = new int[5];
         int [] b = {1,2,3,4,5};
         System.out.println(b[4]);
